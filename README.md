@@ -6,5 +6,5 @@ used software
  * Simulation - Proteus V8.0
 
 If unable to run the simulation,
-Please allocate Program file path of Door_lock.hex file to the proteus MCU.
+Please allocate Program file path of Door_lock.hex file to the PIC16F877A MCU in proteus sim.
 Door_lock.hex is located in the source code folder.
