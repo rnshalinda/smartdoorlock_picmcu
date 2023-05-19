@@ -1,0 +1,13 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877 -DL -O11111114 -fo8 -N"D:\0_Mechatronics\## Classes\#3 Semester\5505ICBTEL-Principles and Applications of Microcontrollers\asg\978727\New folder (2)\source code 2\door_lock2.mcppi" -SP"D:\Software\Micro c\mikroC PRO for PIC\Defs\" -SP"D:\Software\Micro c\mikroC PRO for PIC\Uses\P16\" -SP"D:\0_Mechatronics\## Classes\#3 Semester\5505ICBTEL-Principles and Applications of Microcontrollers\asg\978727\New folder (2)\source code 2\" -IP"D:\Software\Micro c\mikroC PRO for PIC\Uses\P16\" -IP"D:\0_Mechatronics\## Classes\#3 Semester\5505ICBTEL-Principles and Applications of Microcontrollers\asg\978727\New folder (2)\source code 2\" "door_lock2.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_CMath.mcl" "__Lib_Keypad4x4.mcl" "__Lib_PWM_c21.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	door_lock2.c
+diagnostics: 242	123	Compiled Successfully	door_lock2.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+warning: 55	1511	IRP bit must be set manually for indirect access to 'enter_pswd' variable	door_lock2.c
+warning: 0	1511	IRP bit must be set manually for indirect access to '?lstr9_door_lock2' variable	door_lock2.c
+hint: 0	1144	Used RAM (bytes): 194 (55%)  Free RAM (bytes): 158 (45%)	Used RAM (bytes): 194 (55%)  Free RAM (bytes): 158 (45%)
+hint: 0	1144	Used ROM (program words): 1566 (19%)  Free ROM (program words): 6626 (81%)	Used ROM (program words): 1566 (19%)  Free ROM (program words): 6626 (81%)
+diagnostics: 0	125	Project Linked Successfully	door_lock2.mcppi
+diagnostics: 0	128	Linked in 16 ms	 
+diagnostics: 0	129	Project 'door_lock2.mcppi' completed: 79 ms	 
+diagnostics: 0	103	Finished successfully: 19 May 2023, 21:50:40	door_lock2.mcppi
