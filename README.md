@@ -4,8 +4,8 @@
 
 There are so many types of security systems present today but behind the scene, for authentication, they all rely on Fingerprint, Retina Scanner, Face ID, RFID Reader, Password, Pin, Patterns etc. Out Of all the solutions the low-cost one is to use a password or pin-based system.
 
-This project showcases a fully functional keypad accessed security system for hotel rooms, implemented using a PIC microcontroller and programmed in C++. The system provides a cost-effective solution for room authentication, using a password or pin-based system.
-
+This project showcases two methodes to use a functional keypad accessed security system for hotel rooms, implemented using a PIC microcontroller and programmed in C++. The system provides a cost-effective solution for room authentication, using a password or pin-based system. 
+* Please refer 'source code' & 'source code 2' folders
 
 
 ## Used software:
