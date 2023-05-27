@@ -4,7 +4,7 @@
 
 There are so many types of security systems present today but behind the scene, for authentication, they all rely on Fingerprint, Retina Scanner, Face ID, RFID Reader, Password, Pin, Patterns etc. Out Of all the solutions the low-cost one is to use a password or pin-based system.
 
-This project showcases two methodes to use a functional keypad accessed security system for hotel rooms, implemented using a PIC microcontroller and programmed in C++. The system provides a cost-effective solution for room authentication, using a password or pin-based system. 
+This project showcases two methods to use a functional keypad accessed security system for hotel rooms, implemented using a PIC microcontroller and programmed in C++. The system provides a cost-effective solution for room authentication, using a password or pin-based system. 
 * Please refer 'source code' & 'source code 2' folders
 
 
@@ -24,8 +24,8 @@ This project is developed using mikroC PRO V7.2.0 for programming the PIC microc
 
     * Double click and open the PIC16F877A component in the Proteus simulation.
     * Set processor clock frequency to 8MHz.
-    * Under the program file, select the 'Door_lock.hex' file located in the source code folder.
-    * Repeat the same process for the TOUCH SENSOR by locating the 'TouchSensorTEP.HEX' file in the provided sensor library folder.
+    * Under the program file, select the 'Door_lock.hex' or 'door_lock2.hex' file located in the source code folders.
+    * Repeat the same process for the TOUCH SENSOR by adding the 'TouchSensorTEP.HEX' file in the provided sensor library folder.
 
 4. Keypad correct password '1234'.
 
@@ -62,5 +62,12 @@ To customize this project for your specific needs, follow these steps:
 7. Update the README file to provide a brief overview of your modifications.
 
 Feel free to experiment and adapt the project to suit your unique requirements. If you need help, refer to the project documentation or seek assistance from relevant communities.
+
+
+## Known errors:
+* Potential software compatibility issues may require code adjustments.
+* IRP bit configuration may be necessary, but it did not cause any problems in my setup.
+* Problems with LCD character display may be related to the IRP bit issue.
+
 
 Happy customization!
