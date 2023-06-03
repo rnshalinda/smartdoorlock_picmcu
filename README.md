@@ -69,5 +69,8 @@ Feel free to experiment and adapt the project to suit your unique requirements. 
 * IRP bit configuration may be necessary, but it did not cause any problems in my setup.
 * Problems with LCD character display may be related to the IRP bit issue.
 
+## Support and Feedback
+
+⭐️ [Leave a Star](https://github.com/rnshalinda/smartdoorlock_picmcu) : leaving a star on the GitHub repository would mean a lot to me.
 
 Happy customization!
